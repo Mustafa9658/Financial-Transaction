@@ -1,8 +1,8 @@
 # Financial-Transaction
 This repository contains a Python script to create synthetic financial transaction datasets with detailed, aiding in data simulation, analysis and AI model training.
-# For running this code you should have must install neccessary python libraries like pandas, numpy ,random and Faker
+#For running this code you should have must installed some python libraries like pandas, numpy ,random and Faker
 
-Generating Synthetic Datasets for Account Transactions
+# Generating Synthetic Datasets for Account Transactions
 
 Description: This repository focuses on the generation of synthetic datasets for training and testing purposes, particularly tailored for account transaction data in various industries such as software, manufacturing, real estate, retail, and healthcare. The primary objective is to create datasets that closely resemble real-world transactions, enabling organizations in different sectors to conduct automated work efficiently.
 
